@@ -32,6 +32,10 @@ The San Diego Union-Tribune is the region's main media outlet, running a number 
 	Written by three out of the thirteen people whose names are on the SAWG Admissions report
 		(None are listed as contributing to the SAWG Math Prep report.)
 
+### UNDATED: [UNKNOWN Math Dept Chair Statement on the Math Preparedness Crisis](https://mathematics.ucsd.edu/sites/www.math.ucsd.edu/files/Chair_Statement_on_the_Math_Preparedness_Crisis.pdf)
+
+	WOrk on this!!!!!!!! WORK ON THIS WHO WROTE THIS
+
 ### 2026 JAN12: [PAULUS Goldwater Institute Article](https://www.goldwaterinstitute.org/ucsds-math-meltdown-the-cost-of-prioritizing-identity-politics-over-the-basics/)
 The Goldwater Institute is
 
