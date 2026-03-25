@@ -3,7 +3,7 @@ Contextualize each source, Look for common threads, Decide what gap  we'll repor
 
 Sources Ordered by Chronology.
 
-## Academic Senate
+## Academic Senate: Primary Data
 The UCSD Academic Senate "provides faculty advice" to the Regents & Admin, as per its website.
 	Senate-Administration Working Groups (SAWGs) are assigned to Do Things and report on them.
 
@@ -16,6 +16,8 @@ The UCSD Academic Senate "provides faculty advice" to the Regents & Admin, as pe
 "The Workgroup was established to define an updated framework for UC San Diego undergraduate admissions that is cognizant and responsive to changes in admissions requirements" [x](https://senate.ucsd.edu/current-affairs/issues-under-review/review-of-senate-administration-workgroup-report-on-admissions/)
 
 	THIS PART. WORK ON THIS.
+
+## Secondary Sources
 
 ### 2025 NOV17: [JOHNSTON UCSD Guardian Article](https://ucsdguardian.org/2025/11/17/admissions-report-finds-academic-preparedness-deficiencies-in-incoming-ucsd-students/?print=true)
 The UCSD Guardian is the university's independent student newspaper.
