@@ -1,5 +1,5 @@
 # Annotated Bibliographies
-Contextualize each source, Look for common threads, Decide what niche we'll report on.
+Contextualize each source, Look for common threads, Decide what gap  we'll report on.
 
 Sources Ordered by Chronology.
 
@@ -29,7 +29,8 @@ The UCSD Guardian is the university's independent student newspaper.
 ### 2025 DEC05: [TAS, BETTS, HOLST San Diego Union-Tribune Opinion](https://www.sandiegouniontribune.com/2025/12/05/opinion-ucsd-report-a-reflection-of-californias-k-12-education-crisis/)
 The San Diego Union-Tribune is the region's main media outlet, running a number of local papers including the La Jolla Light in addition to the homebase paper.
 
-	Written by three out of the thirteen people whose names are on the SAWG Admissions report (not the Math Prep report.)
+	Written by three out of the thirteen people whose names are on the SAWG Admissions report
+		(None are listed as contributing to the SAWG Math Prep report.)
 
 ### 2026 JAN12: [PAULUS Goldwater Institute Article](https://www.goldwaterinstitute.org/ucsds-math-meltdown-the-cost-of-prioritizing-identity-politics-over-the-basics/)
 The Goldwater Institute is
